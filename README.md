@@ -10,7 +10,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados:
 ## Instalación
 Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local.
 
-1. Descargar el notebook
-   Damos click sobre el notebook y en el recuadro sobre el lado derecho damos click sobre el ícono de descarga
-2. Abrir el código en Colab
+### 1. Descargar el notebook
+   Damos click sobre el notebook y en el recuadro sobre el lado derecho damos click en el ícono de descarga
+### 2. Abrir el código en Colab
    Una vez descargado el notebook, abrimos el drive y en el botón nuevo subimos el archivo .ipynb que descargamos en el paso anterior
